@@ -1,5 +1,5 @@
 # DSC180A-Methodology-3
 
-Dallas Plunkett
+Jeru Paul Balares
 
 dmplunkett@ucsd.edu
